@@ -1,0 +1,12 @@
+[
+    {
+        "username": "user1",
+        "password": "password123",
+        "pathway": "user1_goals.json"
+    },
+    {
+        "username": "user2",
+        "password": "NotAPassword",
+        "pathway": "user2_goals.json"
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "goalName": "Complete Project Proposal",
+        "Priority": "High",
+        "Reminders": "Submit proposal by email",
+        "Deadline": "2024-12-01T23:59:59.000Z",
+        "reminderSent": false
+    },
+    {
+        "goalName": "Goal with past deadline",
+        "Priority": "Low",
+        "Reminders": "Reminder Check1",
+        "Deadline": "2023-12-05T23:59:59.000Z",
+        "reminderSent": true
+    },
+    {
+        "goalName": "Goal with past deadline1",
+        "Priority": "Low",
+        "Reminders": "Reminder Check2",
+        "Deadline": "2023-12-05T23:59:59.000Z",
+        "reminderSent": true
+    },
+    {
+        "goalName": "Goal with past deadline2",
+        "Priority": "Low",
+        "Reminders": "Reminder Check3",
+        "Deadline": "2023-12-05T23:59:59.000Z",
+        "reminderSent": true
+    },
+    {
+        "goalName": "Goal with past deadline3",
+        "Priority": "Low",
+        "Reminders": "Reminder Check4",
+        "Deadline": "2023-12-05T23:59:59.000Z",
+        "reminderSent": true
+    },
+    {
+        "goalName": "Goal with past deadline4",
+        "Priority": "Low",
+        "Reminders": "Reminder Check5",
+        "Deadline": "2023-12-05T23:59:59.000Z",
+        "reminderSent": true
+    }
+]

@@ -1,0 +1,15 @@
+user1
+password123
+expected output: path to user1_goals.json
+
+User2
+NotAPassword
+expected output: path to user2_goals.json
+
+user2
+fakepassword
+expected output: login error
+
+fakeUser
+password123
+expected output: login error
